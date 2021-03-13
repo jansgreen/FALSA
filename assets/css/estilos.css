@@ -1,12 +1,22 @@
-body{
-  max-width: 332px;
-  margin-left: 0px;
-  margin-right: 0px;
-  padding-left: 0px;
-  padding-right: 0px;
+* {margin:0px; padding: 0px; width: 100%;}
+
+.barra1{
+  background-color: #0b5485;
 }
-.navRow footer {
-  position: fixed;
-  top: 0;
+
+.barra1Formato{
+  color: #ffff;
+}
+
+.BarraFecha{
+  background-color: #bdbdbdf5;
+}
+
+.list-group{
+  width: 332px;
+}
+.celFecha{
   width: 100%;
-  }
+  min-height: 40px;
+  max-height: 41px;
+}
