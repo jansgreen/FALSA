@@ -6,7 +6,6 @@ body{
   padding-right: 0px;
 }
 .navRow footer {
-  overflow: hidden;
   position: fixed;
   top: 0;
   width: 100%;
