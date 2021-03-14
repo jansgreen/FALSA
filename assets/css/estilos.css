@@ -16,6 +16,7 @@ z-index: 9999;
 }
 
 .barra1{
+  border: 0px;
   background-color: #043c5c;
 }
 
@@ -54,4 +55,16 @@ z-index: 9999;
 .fa-arrow-left{
   color: #ffffff;
   font-size: 2%;
+}
+
+.SimplyChecking{
+  color: #ffffff;
+  background-color: #043c5c;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.barra3{
+  border: 0px;
+  background-color: #043c5c;
 }
