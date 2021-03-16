@@ -17,11 +17,11 @@ z-index: 9999;
 
 .barra1{
   border: 0px;
-  background-color: #043c5c;
+  background-color: #104765;
 }
 
 .barra1Formatos{
-  color: #043c5c;
+  color: #104765;
 }
 .barra1Formato{
   color: #ffffff;
@@ -59,12 +59,14 @@ z-index: 9999;
 
 .SimplyChecking{
   color: #ffffff;
-  background-color: #043c5c;
+  background-color: #104765;
   margin-left: auto;
   margin-right: auto;
 }
 
 .barra3{
   border: 0px;
-  background-color: #043c5c;
+  background-color: #104765;
+  padding-top: 5%;
+
 }
